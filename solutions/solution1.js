@@ -1,5 +1,6 @@
 // Solution 1
-// Validate iceCreamFlavors use Jquery to write to DOM
+// Validate iceCreamFlavors
+// Jquery used to write to DOM
 
 function printList(list) {
   let finalList = "";
